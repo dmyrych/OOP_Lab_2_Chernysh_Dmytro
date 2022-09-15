@@ -1,0 +1,6 @@
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/bin/Debug/Lab_2_OOP.exe
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/bin/Debug/Lab_2_OOP.pdb
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/obj/x86/Debug/Lab_2_OOP.csproj.AssemblyReference.cache
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/obj/x86/Debug/Lab_2_OOP.csproj.CoreCompileInputs.cache
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/obj/x86/Debug/Lab_2_OOP.exe
+/home/dmyrych/Projects/Lab_2_OOP/Lab_2_OOP/obj/x86/Debug/Lab_2_OOP.pdb
